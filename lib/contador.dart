@@ -1,7 +1,7 @@
 class Contador {
   int value = 0;
 
-  void incremetar() => value++;
+  void incrementar() => value++;
 
   void decrementar() => value--;
 }

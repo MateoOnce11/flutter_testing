@@ -20,7 +20,7 @@ void main() {
     test('valor debe ser incrementado en 1', () {
       final counter = Contador();
 
-      counter.incremetar();
+      counter.incrementar();
 
       expect(counter.value, 1);
     });
